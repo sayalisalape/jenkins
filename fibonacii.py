@@ -1,6 +1,6 @@
 # Fibonacii sequence
 
-nterms = 20
+nterms = 10
 
 # first two terms
 n1 = 0
